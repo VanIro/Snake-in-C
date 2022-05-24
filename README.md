@@ -1,4 +1,5 @@
 # Snake-in-C
 1st year C project
 
-![image](https://user-images.githubusercontent.com/61639823/170102683-738ea2ba-4670-4496-a8e6-cea57b7626b7.png)
+![image](https://user-images.githubusercontent.com/61639823/170106089-588c1f29-e4f6-41b5-af33-ef10b1143346.png)
+
